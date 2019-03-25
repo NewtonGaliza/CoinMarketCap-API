@@ -1,1 +1,1 @@
-# CoinMarketCap-API
+# CoinMarketCap API usage
